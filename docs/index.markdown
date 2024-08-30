@@ -15,7 +15,7 @@ layout: home
 </td>
 <td>
 
-I am a PhD student at KTH specialising in the control and motion planning of multiple robotic manipulators. My research centres on satisfying complex, high-level tasks, articulated through temporal logics.
+I am a PhD student at KTH specialising in the control and motion planning of multiple robotic manipulators. My research centres on satisfying complex, high-level tasks, articulated through signal temporal logic.
 <br>
 <br>
 <ul>

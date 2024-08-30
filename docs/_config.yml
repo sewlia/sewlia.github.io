@@ -28,15 +28,13 @@ exclude:
 title: Mayank Sewlia
 email: mayank.sewlia@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+    Welcome to my personal website! I’m Mayank Sewlia, a PhD student at KTH working with control and motion planning of robotic manipulators. Feel free to reach out with (suggestions, ideas, opportunities) related to robotics!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 linkedin_username: sewlia
 twitter_username: msewlia
 github_username:  sewlia
-
+instagram_username: sewlia
 # Build settings
 theme: minima
 plugins:
