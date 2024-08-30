@@ -4,15 +4,16 @@
 
 layout: home
 ---
-<div style="display: flex; flex-wrap: wrap;">
-
-  <!-- Left Column -->
-  <div style="flex: 1; min-width: 200px; padding: 20px;">
+<table border="0">
+ <tr>
+    <td>
 
   ![Profile Picture](/assets/profile_pic.png){: width="100%" style="border-radius: 50%;" }
 
-  ###About Me
+</td>
+<td>
 
+  # About Me
 
 
   Hi, I'm **Mayank Sewlia**, a PhD student at KTH specializing in the control and motion planning of multiple robotic manipulators. My research focuses on satisfying complex, high-level tasks articulated through temporal logics.
@@ -21,11 +22,10 @@ layout: home
   - 📚 PhD Student at KTH
   - 🌐 [LinkedIn](https://www.linkedin.com/in/sewlia)
 
-  </div>
+</td>
+   </tr>
+</table>
 
-  <!-- Right Column -->
-  <div style="flex: 1; min-width: 200px; padding: 20px;">
-  
   ### Research Interests
 
   My work involves exploring innovative solutions in the domain of multi-robot systems, particularly focusing on:
@@ -36,7 +36,6 @@ layout: home
 
   I'm passionate about leveraging robotics to solve real-world problems and pushing the boundaries of what's possible with automation and intelligent systems.
 
-  </div>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8BeQODGFV1M?si=giYJ85WdCNw1L28x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
