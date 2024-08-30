@@ -9,7 +9,8 @@ layout: home
     <th>
 
   <img src="/assets/profile_pic.png" alt="Profile Picture" style="width: 300; border-radius: 50%;" />
-
+<br>
+<br>
     sewlia@kth.se
 <br>
 
@@ -117,12 +118,6 @@ Distributed Event-Based Control for Second-Order Multi-Agent Systems
 </h2>
 <br>
 </li>
-
-
-
-
-
-
 
 </ol>
 

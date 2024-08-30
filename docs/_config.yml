@@ -25,9 +25,9 @@ markdown: kramdown
 exclude:
   - _posts
   
-title: Mayank Sewlia
+title: ""
 description: >- # this means to ignore newlines until "baseurl:"
-    Welcome to my personal website! I’m Mayank Sewlia, a PhD student at KTH working with control and motion planning of robotic manipulators. Feel free to reach out with (suggestions, ideas, opportunities) related to robotics!
+    
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # Build settings
