@@ -8,25 +8,31 @@ layout: home
  <tr>
     <td>
 
-  ![Profile Picture](/assets/profile_pic.png){: width="100%" style="border-radius: 50%;" }
+  <img src="/assets/profile_pic.png" alt="Profile Picture" style="width: 300; border-radius: 50%;" />
+
+
 
 </td>
 <td>
 
-  # About Me
+I am a PhD student at KTH specialising in the control and motion planning of multiple robotic manipulators. My research centres on satisfying complex, high-level tasks, articulated through temporal logics.
 
+<br>
 
-  Hi, I'm **Mayank Sewlia**, a PhD student at KTH specializing in the control and motion planning of multiple robotic manipulators. My research focuses on satisfying complex, high-level tasks articulated through temporal logics.
+<a href="https://sewlia.github.io/docs/assets/Resume.pdf" target="_blank">Resume</a>
 
-  - 🔬 Researcher in Robotics
-  - 📚 PhD Student at KTH
-  - 🌐 [LinkedIn](https://www.linkedin.com/in/sewlia)
+<a href="/assets/resume.pdf" class="image fit"><img src="/assets/resume.pdf" alt="" type="application/pdf"></a>
 
 </td>
    </tr>
 </table>
 
+![]()
   ### Research Interests
+
+<object data="/assets/resume.pdf" width="500" height="500" type='application/pdf'></object>
+
+
 
   My work involves exploring innovative solutions in the domain of multi-robot systems, particularly focusing on:
 
@@ -42,7 +48,3 @@ layout: home
 <iframe width="560" height="315" src="https://www.youtube.com/embed/YkuiPuOerMg?si=9-sfCzAZLAB_Zztj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CfoWh5PEYPo?si=7N__Aleskq4sNuTs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-
-
-</div>
