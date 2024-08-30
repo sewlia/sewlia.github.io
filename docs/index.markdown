@@ -6,13 +6,20 @@ layout: home
 ---
 <table border="0">
  <tr>
-    <td>
+    <th>
 
   <img src="/assets/profile_pic.png" alt="Profile Picture" style="width: 300; border-radius: 50%;" />
 
+    sewlia@kth.se
+<br>
 
+<div class="social-icons">
+  <a href="https://linkedin.com/in/sewlia" target="_blank"><img src="assets/icons/linkedin.png" alt="LinkedIn" width="30"></a>
+  <a href="https://github.com/sewlia" target="_blank"><img src="assets/icons/github.png" alt="GitHub" width="30"></a>
+  <a href="https://twitter.com/msewlia" target="_blank"><img src="assets/icons/twitter.png" alt="Twitter" width="30"></a>
+</div>
 
-</td>
+</th>
 <td>
 
 I am a PhD student at KTH specialising in the control and motion planning of multiple robotic manipulators. My research centres on satisfying complex, high-level tasks, articulated through signal temporal logic.
