@@ -123,5 +123,18 @@ Distributed Event-Based Control for Second-Order Multi-Agent Systems
 
 In addition to my work, I enjoy various physical activities, such as rowing, running, biking, and playing badminton. I have recently taken up learning to play the piano and have a soft corner for English literature.
 
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(30px, 1fr)); gap: 2px; padding: 2px;">
+  <div>
+    <div>
+      <img src="/assets/hobbies/row1.jpg" alt="Rowing 1" width="200">
+      <img src="/assets/hobbies/badminton.jpg" alt="Badminton" width="220">
+      <img src="/assets/hobbies/bike1.jpg" alt="Bike 1" width="200" height="320">
+      <img src="/assets/hobbies/bike2.jpg" alt="Bike 2" width="200">
+      <img src="/assets/hobbies/bike3.jpg" alt="Bike 3" width="200" height="220">
+      <img src="/assets/hobbies/hike.jpg" alt="Hike" width="200">
+      <img src="/assets/hobbies/row2.JPG" alt="Rowing 2" width="300" height="220">
+      <img src="/assets/hobbies/row3.JPG" alt="Rowing 3" width="300">
+    </div>
+
 
 
