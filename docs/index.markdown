@@ -16,35 +16,110 @@ layout: home
 <td>
 
 I am a PhD student at KTH specialising in the control and motion planning of multiple robotic manipulators. My research centres on satisfying complex, high-level tasks, articulated through temporal logics.
-
 <br>
-
-<a href="https://sewlia.github.io/docs/assets/Resume.pdf" target="_blank">Resume</a>
-
-<a href="/assets/resume.pdf" class="image fit"><img src="/assets/resume.pdf" alt="" type="application/pdf"></a>
-
+<br>
+<ul>
+<li>
+PhD. (2019-) KTH Royal Institute of Technology with Prof. Christos Verginis and Prof. Dimos Dimarogonas</li>
+<li>MSc. (2018-2020) Technion - Israel Institute of Technology with Prof. Daniel Zelazo</li>
+<li>B.Tech. (2013-2017) Alliance University in Aerospace Engineering</li>
+</ul>
+<h2>
+<a href="/assets/Resume.pdf" target="_blank">Resume</a>
+</h2>
 </td>
    </tr>
 </table>
 
-![]()
-  ### Research Interests
-
-<object data="/assets/resume.pdf" width="500" height="500" type='application/pdf'></object>
+<h1>Recent Projects</h1>
 
 
+<ol>
+<li>
+<h2>
+Leader-Follower Cooperative Manipulation Under Spatio-Temporal Constraints
+<a href="/assets/papers/Mayank_IROS24.pdf" target="_blank">Paper</a>
+<a href="https://www.youtube.com/watch?v=8BeQODGFV1M" target="_blank">Video</a>
+</h2>
+<br>
+<img src="/assets/iros.gif" alt="Description of GIF 3" style="width: 50%;">
+</li>
 
-  My work involves exploring innovative solutions in the domain of multi-robot systems, particularly focusing on:
-
-  - **Robotic Manipulators**: Developing advanced control techniques.
-  - **Motion Planning**: Ensuring robots perform tasks in efficient paths.
-  - **Temporal Logics**: Using logical frameworks to define task constraints.
-
-  I'm passionate about leveraging robotics to solve real-world problems and pushing the boundaries of what's possible with automation and intelligent systems.
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8BeQODGFV1M?si=giYJ85WdCNw1L28x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<li>
+<h2>
+MAPS<sup>2</sup>: Multi-Robot Anytime Motion Planning under Signal Temporal Logic Specifications
+<a href="/assets/papers/Mayank_MAPS2.pdf" target="_blank">Paper</a>
+<a href="https://www.youtube.com/watch?v=YkuiPuOerMg" target="_blank">Video</a>
+</h2>
+<br>
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(30px, 1fr)); gap: 2px; padding: 2px;">
+  <div>
+<img src="/assets/maps_robots.gif" alt="Description of GIF 3" style="width: 100%;">
+</div>
+<div>
+<img src="/assets/maps_line.gif" alt="Description of GIF 3" style="width: 100%;">
+</div>
+</div>
+</li>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YkuiPuOerMg?si=9-sfCzAZLAB_Zztj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<li>
+<h2>
+Cooperative Sampling-Based Motion Planning under Signal Temporal Logic Specifications
+<a href="/assets/papers/Mayank_ACC2023.pdf" target="_blank">Paper</a>
+</h2>
+<br>
+<img src="/assets/acc.gif" alt="Description of GIF 3" style="width: 50%;">
+</li>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CfoWh5PEYPo?si=7N__Aleskq4sNuTs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+<li>
+<h2>
+Cooperative Object Manipulation under Signal Temporal Logic Tasks and Uncertain Dynamics
+<a href="/assets/papers/Mayank_RAL2022.pdf" target="_blank">Paper</a>
+<a href="https://www.youtube.com/watch?v=CfoWh5PEYPo" target="_blank">Video</a>
+</h2>
+<br>
+<img src="/assets/ral.gif" alt="Description of GIF 3" style="width: 50%;">
+</li>
+
+
+<li>
+<h2>
+Cooperative control of heterogeneous multi-agent systems under spatiotemporal constraints
+<a href="/assets/papers/Fei_ARC2023.pdf" target="_blank">Paper</a>
+</h2>
+<br>
+</li>
+
+
+<li>
+<h2>
+Bearing-Based Formation Stabilization Using Event-Triggered Control
+<a href="/assets/papers/Mayank_IJRNC2023.pdf" target="_blank">Paper</a>
+</h2>
+<br>
+</li>
+
+<li>
+<h2>
+Distributed Event-Based Control for Second-Order Multi-Agent Systems
+<a href="/assets/papers/Mayank_MED2019.pdf" target="_blank">Paper</a>
+</h2>
+<br>
+</li>
+
+
+
+
+
+
+
+</ol>
+
+
+
+
+
