@@ -93,6 +93,14 @@ Cooperative Object Manipulation under Signal Temporal Logic Tasks and Uncertain 
 <img src="/assets/ral.gif" alt="Description of GIF 3" style="width: 50%;">
 </li>
 
+<li>
+<h2>
+Generating and Optimizing Topologically Distinct Guesses for Mobile Manipulator Path Planning
+<a href="/assets/papers/Rufus_ICRA25.pdf" target="_blank">Paper</a>
+</h2>
+<br>
+<img src="/assets/icra_rufus.gif" alt="Description of GIF 3" style="width: 50%;">
+</li>
 
 <li>
 <h2>
