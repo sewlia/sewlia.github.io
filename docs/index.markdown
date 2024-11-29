@@ -18,7 +18,6 @@ layout: home
   <a href="https://scholar.google.com/citations?user=6kmzhc8AAAAJ&hl=sv&oi=ao" target="_blank"><img src="assets/icons/scholar.png" alt="Google Scholar" width="30"></a>
   <a href="https://linkedin.com/in/sewlia" target="_blank"><img src="assets/icons/linkedin.png" alt="LinkedIn" width="30"></a>
   <a href="https://github.com/sewlia" target="_blank"><img src="assets/icons/github.png" alt="GitHub" width="30"></a>
-  <a href="https://twitter.com/msewlia" target="_blank"><img src="assets/icons/twitter.png" alt="Twitter" width="30"></a>
 </div>
 
 </th>
