@@ -181,6 +181,7 @@ Cooperative control of heterogeneous multi-agent systems under spatiotemporal co
 </a>
 </h2>
 <br>
+<img src="/assets/fei.png" alt="Description of GIF 3" style="width: 50%;">
 </li>
 
 
@@ -194,6 +195,7 @@ Bearing-Based Formation Stabilization Using Event-Triggered Control
 </a>
 </h2>
 <br>
+<img src="/assets/ijrnc.gif" alt="Description of GIF 3" style="width: 50%;">
 </li>
 
 <li>
@@ -206,6 +208,7 @@ Distributed Event-Based Control for Second-Order Multi-Agent Systems
 </a>
 </h2>
 <br>
+<img src="/assets/med.png" alt="Description of GIF 3" style="width: 50%;">
 </li>
 
 </ol>
