@@ -28,7 +28,7 @@ layout: home
     <!-- Text Section -->
 <td style="width: 60%; vertical-align: top; padding: 20px;">
   <h3 style="line-height: 1.6em; font-size: 1.1em; text-align: justify;">
-    I am currently a Motion Planning Engineer at NEURA Robotics GmbH. My background lies in the coordination of multi-robot systems and the study of robotic manipulation as a hybrid dynamical system involving contacts.
+    I am a Motion Planning Engineer at NEURA Robotics GmbH. My work focuses on planning and control for complex robotic systems, with an emphasis on coordinated multi-robot manipulation and contact-rich interactions. I am interested in modelling manipulation as a hybrid dynamical system and in bridging optimisation based planning with real world robots.
   </h3>
 
   <br>
@@ -38,7 +38,7 @@ layout: home
     <ul>
       <li>PhD, KTH Royal Institute of Technology</li>
       <li>MSc, Technion – Israel Institute of Technology</li>
-      <li>Bachelor’s, Alliance University</li>
+      <li>B.Tech, Alliance University</li>
     </ul>
   </h3>
 
