@@ -122,9 +122,6 @@ MAPS<sup>2</sup>: Multi-Robot Anytime Motion Planning under Signal Temporal Logi
   <div>
 <img src="/assets/maps_robots.gif" alt="Description of GIF 3" style="width: 100%;">
 </div>
-<div>
-<img src="/assets/maps_line.gif" alt="Description of GIF 3" style="width: 100%;">
-</div>
 </div>
 </li>
 
