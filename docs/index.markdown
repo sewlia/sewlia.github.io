@@ -120,7 +120,7 @@ MAPS<sup>2</sup>: Multi-Robot Anytime Motion Planning under Signal Temporal Logi
 <br>
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(30px, 1fr)); gap: 2px; padding: 2px;">
   <div>
-<img src="/assets/maps_robots.gif" alt="Description of GIF 3" style="width: 100%;">
+<img src="/assets/maps_robots.gif" alt="Description of GIF 3" style="width: 50%;">
 </div>
 </div>
 </li>
