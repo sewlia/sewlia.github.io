@@ -26,18 +26,28 @@ layout: home
     </td>
 
     <!-- Text Section -->
-    <td style="width: 60%; vertical-align: top; padding: 20px;">
-      <h3 style="line-height: 1.6em; font-size: 1.1em; text-align: justify;">
-        I am a PhD student at KTH specialising in the control and motion planning of multiple robotic manipulators. My research centres on satisfying complex, high-level tasks, articulated through signal temporal logic.
-      </h3>
-      <br>
-      <h2>
-        <a href="/assets/Resume.pdf" target="_blank" style="text-decoration: none; color: #89CFF0;">Resume (Jan 2025)</a>
-      </h2>
-      <h3 style="line-height: 1.6em; font-size: 1.1em; text-align: justify;">
-        I am actively seeking full-time positions in the fields of control systems, robotics, and motion planning.
-      </h3>
-    </td>
+<td style="width: 60%; vertical-align: top; padding: 20px;">
+  <h3 style="line-height: 1.6em; font-size: 1.1em; text-align: justify;">
+    I am currently a Motion Planning Engineer at NEURA Robotics GmbH. My background lies in the coordination of multi-robot systems and the study of robotic manipulation as a hybrid dynamical system involving contacts.
+  </h3>
+
+  <br>
+
+  <h3 style="line-height: 1.6em; font-size: 1.1em;">
+    Education:
+    <ul>
+      <li>PhD, KTH Royal Institute of Technology</li>
+      <li>MSc, Technion – Israel Institute of Technology</li>
+      <li>Bachelor’s, Alliance University</li>
+    </ul>
+  </h3>
+
+  <h2>
+    <a href="/assets/CV_website.pdf" target="_blank" style="text-decoration: none; color: #89CFF0;">
+      Resume (Dec 2025)
+    </a>
+  </h2>
+</td>
   </tr>
 </table>
 
@@ -45,6 +55,27 @@ layout: home
 
 
 <ol>
+
+
+<li>
+<h2>
+Trajectory Tracking for Multi-Manipulator Systems in Constrained Environments
+<a href="/assets/papers/Mayank_TrajOpt2025.pdf" target="_blank">
+    <button style="padding: 10px 20px; background-color: #89CFF0; color: white; border: none; border-radius: 5px; cursor: pointer;">
+        Paper
+    </button>
+</a>
+<a href="https://www.youtube.com/watch?v=9W4wOzRl5dg" target="_blank">
+    <button style="padding: 10px 20px; background-color: #89CFF0; color: white; border: none; border-radius: 5px; cursor: pointer;">
+        Video
+    </button>
+</a>
+</h2>
+<br>
+<img src="/assets/trajopt.gif" alt="Description of GIF 3" style="width: 50%;">
+</li>
+
+
 <li>
 <h2>
 Leader-Follower Cooperative Manipulation Under Spatio-Temporal Constraints
