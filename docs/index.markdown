@@ -103,7 +103,7 @@ Leader-Follower Cooperative Manipulation Under Spatio-Temporal Constraints
 <li>
 <h2>
 MAPS<sup>2</sup>: Multi-Robot Anytime Motion Planning under Signal Temporal Logic Specifications
-<a href="/assets/papers/Mayank_MAPS2.pdf" target="_blank">
+<a href="/assets/papers/Mayank_IJRR2025.pdf" target="_blank">
     <button style="padding: 10px 20px; background-color: #89CFF0; color: white; border: none; border-radius: 5px; cursor: pointer;">
         Paper
     </button>
